@@ -10,3 +10,6 @@ ERC 20 Token:
 
 PrimaBlock:
 1. https://hackernoon.com/designing-for-the-blockchain-launching-an-ethereum-smart-contract-app-3a972615731c
+
+Ropsten Faucet:
+https://faucet.kyber.network/
